@@ -1,0 +1,19 @@
+body {
+  font-family: sans-serif;
+  background: rgb(212, 208, 208);
+}
+h1 {
+  font-family: Lato;
+  text-align: center;
+  margin-top: 10%;
+  font-size: 150px;
+}
+.methoDiv {
+  text-align: center;
+  margin-top: 10%;
+  margin-right: 25px;
+}
+.content {
+  font-size: 50px;
+  margin-left: 200px;
+}
